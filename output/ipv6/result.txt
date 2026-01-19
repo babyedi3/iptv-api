@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 06:24:41,https://live.catvod.com/iptv.php?id=rthk33
+2026-01-19 11:12:32,https://live.catvod.com/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,https://live.catvod.com/iptv.php?id=rthk33
@@ -976,6 +976,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 茂名综合,https://hls-gateway.vpstv.net/streams/708982.m3u8
 
 🇭🇰香港频道,#genre#
+翡翠台,https://live.catvod.com/iptv.php?id=fct003
+翡翠台,https://live.catvod.com/iptv.php?id=fctsub
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -984,8 +986,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,https://hls-gateway.vpstv.net/streams/476929.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
@@ -1271,11 +1271,13 @@ TVBS欢乐台,https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e727
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8
 龙华电影,https://stream1.freetv.fun/d2c8913c2bf22ff3b8f3fa07ebfcb7bbeb24f2b00c5f228aa8a7908ddc5a14b9.m3u8
+龙华电影,https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv
 龙华戏剧,https://live.catvod.com/iptv.php?id=lhxj01
 龙华戏剧,http://185.106.96.201:28278/lunghuaxiju_twn/playlist.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,https://stream1.freetv.fun/8d599ae0844d04faedf40463bdae0d8c1a423db788c3269661298450b6887212.m3u8
 龙华戏剧,https://stream1.freetv.fun/1aa0d51b3a0a5c53d77c73dc5fcedca8a23637ae223e3b35fdf3fef9cc1fbe12.m3u8
+龙华戏剧,https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729cb648378dd4.ctv
 龙华偶像,https://live.catvod.com/iptv.php?id=lhox01
 龙华偶像,http://185.106.96.201:28278/lunghuaidol_twn/playlist.m3u8
 龙华偶像,http://185.106.96.201:5589/live.php?id=lunghuaidol_twn&h=185.106.96.201&p=22364
@@ -1290,6 +1292,7 @@ TVBS欢乐台,https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e727
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华日韩,https://stream1.freetv.fun/c35fdbc18d8b40ce087dea6e58e5dae1e413ce86d9e4d54060303b51fe69f5a9.m3u8
 龙华日韩,https://stream1.freetv.fun/d1c3fd51d6e6f164825d7d88a830c4bcea1ce2e8b11939e5e39c5798bcf32e14.m3u8
+龙华日韩,https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.ctv
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 龙华洋片,http://185.106.96.201:28278/lunghuawestern_twn/playlist.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
@@ -1304,6 +1307,7 @@ TVBS欢乐台,https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e727
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华经典,https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8
 龙华经典,https://stream1.freetv.fun/86ad34eafc19bc000e9b655728353e2b9feee73707cb01832697c201c7059ecc.m3u8
+龙华经典,https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv
 龙华卡通,https://live.catvod.com/iptv.php?id=lhkt01
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通,https://stream1.freetv.fun/6d1c4a760ec67524fca4854c0a0a3a5b4360dc7a33e49fe348d7fba2d92c1370.m3u8
@@ -1764,3 +1768,7 @@ NewTV明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 NewTV明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
 NewTV中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+
+🔞成人频道,#genre#
+潘朵拉完美,http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
+潘朵拉完美,http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8

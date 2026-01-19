@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 06:24:41
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 11:12:32
 https://live.catvod.com/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://live.catvod.com/iptv.php?id=rthk33
@@ -1938,6 +1938,10 @@ https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
 #EXTINF:-1 tvg-name="茂名综合" tvg-logo="https://live.fanmingming.cn/tv/茂名综合.png" group-title="☘️广东频道",茂名综合
 https://hls-gateway.vpstv.net/streams/708982.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
+https://live.catvod.com/iptv.php?id=fct003
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
+https://live.catvod.com/iptv.php?id=fctsub
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -1953,10 +1957,6 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 https://hls-gateway.vpstv.net/streams/476929.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🇭🇰香港频道",翡翠台
-http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="🇭🇰香港频道",明珠台
@@ -2519,6 +2519,8 @@ https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
 https://stream1.freetv.fun/d2c8913c2bf22ff3b8f3fa07ebfcb7bbeb24f2b00c5f228aa8a7908ddc5a14b9.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
+https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.ctv
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
 https://live.catvod.com/iptv.php?id=lhxj01
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
@@ -2529,6 +2531,8 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 https://stream1.freetv.fun/8d599ae0844d04faedf40463bdae0d8c1a423db788c3269661298450b6887212.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
 https://stream1.freetv.fun/1aa0d51b3a0a5c53d77c73dc5fcedca8a23637ae223e3b35fdf3fef9cc1fbe12.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
+https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729cb648378dd4.ctv
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.cn/tv/龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
 https://live.catvod.com/iptv.php?id=lhox01
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.cn/tv/龙华偶像.png" group-title="🇹🇼台湾频道",龙华偶像
@@ -2557,6 +2561,8 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 https://stream1.freetv.fun/c35fdbc18d8b40ce087dea6e58e5dae1e413ce86d9e4d54060303b51fe69f5a9.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
 https://stream1.freetv.fun/d1c3fd51d6e6f164825d7d88a830c4bcea1ce2e8b11939e5e39c5798bcf32e14.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
+https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.ctv
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="🇹🇼台湾频道",龙华洋片
 https://live.catvod.com/iptv.php?id=lhyp01
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="🇹🇼台湾频道",龙华洋片
@@ -2585,6 +2591,8 @@ https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.cn/tv/龙华经典.png" group-title="🇹🇼台湾频道",龙华经典
 https://stream1.freetv.fun/86ad34eafc19bc000e9b655728353e2b9feee73707cb01832697c201c7059ecc.m3u8
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.cn/tv/龙华经典.png" group-title="🇹🇼台湾频道",龙华经典
+https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.ctv
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.cn/tv/龙华卡通.png" group-title="🇹🇼台湾频道",龙华卡通
 https://live.catvod.com/iptv.php?id=lhkt01
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.cn/tv/龙华卡通.png" group-title="🇹🇼台湾频道",龙华卡通
@@ -3469,3 +3477,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NewTV中国功夫.png" group-title="🎬NewTV轮播",NewTV中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-name="潘朵拉完美" tvg-logo="https://live.fanmingming.cn/tv/潘朵拉完美.png" group-title="🔞成人频道",潘朵拉完美
+http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
+#EXTINF:-1 tvg-name="潘朵拉完美" tvg-logo="https://live.fanmingming.cn/tv/潘朵拉完美.png" group-title="🔞成人频道",潘朵拉完美
+http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
