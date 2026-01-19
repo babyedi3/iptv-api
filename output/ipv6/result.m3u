@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 11:12:32
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 14:34:52
 https://live.catvod.com/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://live.catvod.com/iptv.php?id=rthk33
@@ -3477,7 +3477,27 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NewTV中国功夫.png" group-title="🎬NewTV轮播",NewTV中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-name="松視3" tvg-logo="https://live.fanmingming.cn/tv/松視3.png" group-title="🔞成人频道",松視3
+http://z3.ubtvfans.com/live/rx3/404/57ed7bfbbca3bc4f719e9d9519a4f409/index.m3u8
 #EXTINF:-1 tvg-name="潘朵拉完美" tvg-logo="https://live.fanmingming.cn/tv/潘朵拉完美.png" group-title="🔞成人频道",潘朵拉完美
 http://z3.ubtvfans.com/live/rx3/410/66c109fb88bb7a37dc95ee016b973074/index.m3u8
 #EXTINF:-1 tvg-name="潘朵拉完美" tvg-logo="https://live.fanmingming.cn/tv/潘朵拉完美.png" group-title="🔞成人频道",潘朵拉完美
 http://z88.ubtvfans.com/live/rx4/2932/0b07c2cd5bc42fdcffd64abab1f96e44/index.m3u8
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://live.fanmingming.cn/tv/香蕉.png" group-title="🔞成人频道",香蕉
+http://z88.ubtvfans.com/live/rx3/2930/0cdd444b347afad160bbafa0b96d844d/index.m3u8
+#EXTINF:-1 tvg-name="Banana香蕉" tvg-logo="https://live.fanmingming.cn/tv/Banana香蕉.png" group-title="🔞成人频道",Banana香蕉
+http://z88.ubtvfans.com/live/rx3/2930/0cdd444b347afad160bbafa0b96d844d/index.m3u8
+#EXTINF:-1 tvg-name="彩虹E" tvg-logo="https://live.fanmingming.cn/tv/彩虹E.png" group-title="🔞成人频道",彩虹E
+http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
+#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://live.fanmingming.cn/tv/彩虹K.png" group-title="🔞成人频道",彩虹K
+https://z88.ubtvfans.com/live/rx2/415/6babc0f5085a850b99b33c0a22186200/index.m3u8
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://live.fanmingming.cn/tv/HAPPY.png" group-title="🔞成人频道",HAPPY
+http://z88.ubtvfans.com/live/rx3/2908/bc0aa6ce3602ddcd50c5e522a53cb857/index.m3u8
+#EXTINF:-1 tvg-name="JStar" tvg-logo="https://live.fanmingming.cn/tv/JStar.png" group-title="🔞成人频道",JStar
+https://z88.ubtvfans.com/live/rx3/2909/e8831e8b236d26de96babfcb64ab28ad/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers TV" tvg-logo="https://live.fanmingming.cn/tv/Brazzers TV.png" group-title="🔞成人频道",Brazzers TV
+http://z88.ubtvfans.com/live/rx4/3076/e9fb14dec2b1a56964a84ee20c1fc9e4/index.m3u8
+#EXTINF:-1 tvg-name="LOOK" tvg-logo="https://live.fanmingming.cn/tv/LOOK.png" group-title="🔞成人频道",LOOK
+http://z88.ubtvfans.com/live/rx4/2933/8fbf8b6d7e73e1134f06b30b80daa06f/index.m3u8
+#EXTINF:-1 tvg-name="極限電影" tvg-logo="https://live.fanmingming.cn/tv/極限電影.png" group-title="🔞成人频道",極限電影
+https://z88.ubtvfans.com/live/rx2/405/edbcd09f2865ec906139ec4677a87d4e/index.m3u8
