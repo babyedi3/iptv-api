@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-19 18:31:21,https://live.catvod.com/iptv.php?id=rthk33
+2026-01-20 06:25:06,https://live.catvod.com/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,https://live.catvod.com/iptv.php?id=rthk33
@@ -254,10 +254,6 @@ CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-怀旧剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.90:5140
-怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
-怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 怀旧剧场,http://www.xiaomo520.cn:4020/udp/239.252.219.90:5140
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
