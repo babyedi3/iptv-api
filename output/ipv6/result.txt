@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-24 06:22:37,https://live.catvod.com/iptv.php?id=rthk33
+2026-01-24 18:24:40,https://live.catvod.com/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,https://live.catvod.com/iptv.php?id=rthk33
