@@ -9,7 +9,7 @@ for file in /iptv-api-config/*; do
   fi
 done
 
-. /.venv/bin/activate
+. $APP_WORKDIR/.venv/bin/activate
 
 : "${APP_PORT:=$APP_PORT}"
 : "${NGINX_HTTP_PORT:=$NGINX_HTTP_PORT}"
@@ -22,6 +22,6 @@ sed -e "s/\${APP_PORT}/${APP_PORT}/g" \
 
 nginx -g 'daemon off;' &
 
-python $APP_WORKDIR/main.py &
+python -u $APP_WORKDIR/main.py &
 
-python -m gunicorn service.app:app -b 127.0.0.1:$APP_PORT --timeout=1000
+exec python -m gunicorn service.app:app -b 127.0.0.1:$APP_PORT --timeout=1000
