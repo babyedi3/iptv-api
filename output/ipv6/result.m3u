@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-10 01:38:58
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-11 01:39:42
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -379,6 +379,8 @@ https://stream1.freetv.fun/ea4cb42e4ca2e86fc51164b485e14ea85f050e62afa174270776e
 https://stream1.freetv.fun/441aee67a5d726ee101955eccf21a85a2931754f41341baac92083a39f1b8bb5.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺央视频道",CCTV4K
 https://stream1.freetv.fun/b3dc6e90e9e1f1e6ca0bb3b4f997f658bdef2b736c321121f7acd44a39558ca9.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="📺央视频道",CCTV4K
+https://stream1.freetv.fun/57ee418247cab20a7531618328cf657d75f472563a962649fc8a6e073568a1ae.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="📺央视频道",CCTV8K
 http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="📺央视频道",CCTV8K
@@ -1979,6 +1981,8 @@ https://stream1.freetv.fun/a2a86cb474d32bbffa879868f0619f7a3053fb9a055de362ac505
 https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="🇹🇼台湾频道",TVBS新闻台
 https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
+#EXTINF:-1 tvg-id="121" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="🇹🇼台湾频道",TVBS新闻台
+https://stream1.freetv.fun/fe6a507303ec6ae76614a96ee48f5844ea4e7636314c1011a22aa4af8269a7a1.ctv
 #EXTINF:-1 tvg-id="122" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐台.png" group-title="🇹🇼台湾频道",TVBS欢乐台
 https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e7274b1563a881f2d0f0287b9b345.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐台.png" group-title="🇹🇼台湾频道",TVBS欢乐台
