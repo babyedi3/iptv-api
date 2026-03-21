@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-21 01:24:18,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-03-22 01:09:53,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -948,6 +948,7 @@ Now新闻台,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99
 台视,https://stream1.freetv.fun/b56616ca791b5b2b499c15067c91ada89782e642978a957edec7038d5b5cd248.m3u8
 台视,https://stream1.freetv.fun/84bb118170150c61cb88d06c11c1b2042bba796197bd44a38213511be5503d1b.m3u8
 台视,https://stream1.freetv.fun/84bb118170150c61cb88d06c11c1b2042bba796197bd44a38213511be5503d1b.ctv
+台视,https://stream1.freetv.fun/c804ca164f8bade97f6403877690aec2aa8fd86f58176d8c2223a067c1209d7f.ctv
 台视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻台,https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
 台视新闻台,https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
@@ -1000,18 +1001,21 @@ Now新闻台,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99
 民视新闻台,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
 民视新闻台,https://stream1.freetv.fun/6959fd8e6fea85a671683e657ea500e2e1043c9e3c552469d4a1bd3c528a0f5a.m3u8
 民视新闻台,https://stream1.freetv.fun/6959fd8e6fea85a671683e657ea500e2e1043c9e3c552469d4a1bd3c528a0f5a.ctv
+民视新闻台,https://stream1.freetv.fun/2f734c1fe46e256a27b2aef5e11b2c9e1b9098b1cc374e17e9329bb24ae5edf4.ctv
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,https://stream1.freetv.fun/e4fcbe774413a4dcbd6e0f4cfd4c39b4f9a1989e27df620d654a015cfaf70c93.m3u8
 民视第一台,https://stream1.freetv.fun/568ee8749999cf563b3d6d97bb55307d0d3466b4d4d77a829b4b55063dd21600.m3u8
 民视第一台,https://stream1.freetv.fun/62f5f581947b48199835d35908d87d31c2ff1d55904f0d516eb052db3f92a473.m3u8
 民视第一台,https://stream1.freetv.fun/0f18627e89ae503346d5ef2a1c1be4add53806bc482d62386196a162de41bab0.m3u8
 民视第一台,https://stream1.freetv.fun/1d2329b043116875ab5798beaaf7223c925fb292bb9811bc068e89c1fb0d20b2.m3u8
+民视第一台,https://stream1.freetv.fun/1d2329b043116875ab5798beaaf7223c925fb292bb9811bc068e89c1fb0d20b2.ctv
 公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.m3u8
 公视,https://stream1.freetv.fun/08350865cfa8795ecb8e2c587a4c947cfa66c55c31b6384a6985f05f0951c135.m3u8
 公视,https://stream1.freetv.fun/ae65f99e3b8fe7667be27b20b6ca23ddffe52e8af761117da792ef811f0454db.ctv
 公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
 公视戏剧,https://stream1.freetv.fun/b56c3203247f19884f347fa1cf95dd5d33b88bc0c8649aa4e292b40e9e4a2e2d.m3u8
 公视戏剧,https://stream1.freetv.fun/d40d4c8597d3af2f1da72ce76f4aeb2f682807c2c03997a5620d394340415c52.m3u8
+公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
 TVBS,https://stream1.freetv.fun/8aafe3ba2a14367116ec8559f0e09e6250303374547da0af5fe4720b62339c54.m3u8
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.ctv
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.m3u8
@@ -1102,6 +1106,7 @@ TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838
 寰宇新闻台,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.ctv
 非凡新闻台,https://stream1.freetv.fun/2124ac11b91345b0e1d6d8e1ebccb4bacc91f4110ebf48ccced1b7a9c6221331.m3u8
 非凡新闻台,https://stream1.freetv.fun/a74cfddea020652e0f056eabc4a5848a698277ba87ad5da3079a3f827812ae18.m3u8
+非凡新闻台,https://stream1.freetv.fun/a74cfddea020652e0f056eabc4a5848a698277ba87ad5da3079a3f827812ae18.ctv
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8
@@ -1133,6 +1138,7 @@ TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838
 龙华洋片,https://stream1.freetv.fun/0802b078d355684c617b3feb8b16241b963e75bf0f57d5e12b3182dcdd7fce9d.m3u8
 龙华洋片,https://stream1.freetv.fun/5d53af30b7b982b4456b3f955d3797decb12d7d059199ff1f7d49e6c38d1b5f5.m3u8
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+龙华洋片,https://stream1.freetv.fun/f9e4358bb09913f4e5f1c09e2d6e50458024d9eacf3e2d274516bb85955a0a07.ctv
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华经典,https://stream1.freetv.fun/f00958e79023f80ce5592099eb84bab1d5e2625ba275b4f3526fb7d205a12c3a.m3u8
 龙华经典,https://stream1.freetv.fun/86ad34eafc19bc000e9b655728353e2b9feee73707cb01832697c201c7059ecc.m3u8
@@ -1142,6 +1148,7 @@ TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838
 龙华卡通,https://stream1.freetv.fun/6d1c4a760ec67524fca4854c0a0a3a5b4360dc7a33e49fe348d7fba2d92c1370.m3u8
 龙华卡通,https://stream1.freetv.fun/22b4d7f70127cd8712e72e1e408ebb66a9e43c4bab1e5b0e2b3086bf73c12099.m3u8
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+龙华卡通,https://stream1.freetv.fun/cd8dc05ba5ec6edbbf004bcbeffeabb30eaca27fe1150e2c0e5411e4c7f88a01.ctv
 纬来体育台,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育台,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育台,https://smt.858.qzz.io/Smart.php?id=videolandsport
@@ -1165,6 +1172,7 @@ TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838
 纬来戏剧台,https://stream1.freetv.fun/75ca762f2e74693c9fe613533168e8da15447b687d9545115923d1509b5b370d.ctv
 纬来日本台,https://stream1.freetv.fun/58363aa7e36ad8b8d8e1a371cc7ef6232bfa5699f72162093025b036137ac36e.m3u8
 纬来综合台,https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
+博斯运动1台,https://stream1.freetv.fun/8344054a60274342bb44a8b966fd906359ed0107909f8149eb08536501237e49.ctv
 MOMO亲子台,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 MOMO亲子台,https://stream1.freetv.fun/d693682ff69f1d20c33575ccf3d5a2395098e31ea4a1f8dd8d6a06b5b02b073d.ctv
 东森幼幼台,https://stream1.freetv.fun/5753ad6d04366e4a447cb5f2d22e116b18494d7ecf375878d0369bd1138b1ab2.ctv
