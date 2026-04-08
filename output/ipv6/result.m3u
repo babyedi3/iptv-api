@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-08 01:31:46
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-09 01:33:44
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -2077,6 +2077,8 @@ https://stream1.freetv.fun/a16ffa27fda82552af49c3a429909ce01ead0bda46f726ebb1300
 https://stream1.freetv.fun/28a8e3a06a371a16e0f8d934015757c52c1dbbbef7e6de43d7845c5a5d9b8443.ctv
 #EXTINF:-1 tvg-id="121" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="🇹🇼台湾频道",TVBS新闻台
 https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.ctv
+#EXTINF:-1 tvg-id="121" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻台.png" group-title="🇹🇼台湾频道",TVBS新闻台
+https://stream1.freetv.fun/28a8e3a06a371a16e0f8d934015757c52c1dbbbef7e6de43d7845c5a5d9b8443.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐台.png" group-title="🇹🇼台湾频道",TVBS欢乐台
 https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e7274b1563a881f2d0f0287b9b345.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐台.png" group-title="🇹🇼台湾频道",TVBS欢乐台
@@ -2205,6 +2207,8 @@ https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2
 https://stream1.freetv.fun/9ecfcb8a9664c6c431a55482b76f3938b0d9a7950977e496728c12cd174c15d4.ctv
 #EXTINF:-1 tvg-id="131" tvg-name="东森电影台" tvg-logo="https://live.fanmingming.cn/tv/东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
 https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.ctv
+#EXTINF:-1 tvg-id="131" tvg-name="东森电影台" tvg-logo="https://live.fanmingming.cn/tv/东森电影台.png" group-title="🇹🇼台湾频道",东森电影台
+https://stream1.freetv.fun/d3e4ac4a1216587cdcdd680d8ff720735c9fe324388e6e5592a64b61198066b6.ctv
 #EXTINF:-1 tvg-id="132" tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻台.png" group-title="🇹🇼台湾频道",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻台.png" group-title="🇹🇼台湾频道",东森财经新闻台
@@ -2273,6 +2277,8 @@ https://stream1.freetv.fun/ad6f3a50eba51010af725b291c5940200927ccfbcabb8cad95171
 https://stream1.freetv.fun/0d5a5ce924aa323b57e608e00cf62cbd6628179bf5d0b2e0ddd93a5796ccfbdf.ctv
 #EXTINF:-1 tvg-id="137" tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="🇹🇼台湾频道",非凡新闻台
 https://stream1.freetv.fun/33cc9eed4a91e533d9e49c0ad741701c19b6170a449d4aa884c83d5ad536de3f.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻台.png" group-title="🇹🇼台湾频道",非凡新闻台
+https://stream1.freetv.fun/14aac8389a7327192a74c136e2db61bdbf19eb529e0e3ec42e0b8894ac7c32b0.ctv
 #EXTINF:-1 tvg-id="138" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.cn/tv/镜新闻.png" group-title="🇹🇼台湾频道",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-id="139" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
@@ -2291,6 +2297,8 @@ https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066
 https://stream1.freetv.fun/e61ec6990715622e4b73cf6eb9b3b83a245bd96c7fa9a5d2cd066490f092289c.ctv
 #EXTINF:-1 tvg-id="139" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
 https://stream1.freetv.fun/1aac7bc42ce255908c0613761b9131814460dcc41d1e46a8533cab21f3fdc9fb.ctv
+#EXTINF:-1 tvg-id="139" tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png" group-title="🇹🇼台湾频道",龙华电影
+https://stream1.freetv.fun/1aac7bc42ce255908c0613761b9131814460dcc41d1e46a8533cab21f3fdc9fb.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-id="140" tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png" group-title="🇹🇼台湾频道",龙华戏剧
