@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-23 01:30:19,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-04-24 01:50:25,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -911,6 +911,7 @@ ViuTVsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b
 港台电视 31,https://stream1.freetv.fun/f949dc5cc37d26e396ca35685a1d15c07f901902d43fc812879f722eba1c1b33.ctv
 港台电视 31,https://cdn.163189.xyz/163189/rthk31
 港台电视 31,https://stream1.freetv.fun/099f4bf9ffcbe00c7c3bc604533f3cf23cd5429c3a727cfbbe3f33d53fe8bbd3.ctv
+港台电视 31,https://stream1.freetv.fun/9d329ece816bf018e27f1af986e467d2a6d52301609d4f945cb12ed6e82296d5.ctv
 港台电视 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 港台电视 32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 港台电视 32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
@@ -918,6 +919,7 @@ ViuTVsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b
 港台电视 32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 港台电视 32,https://stream1.freetv.fun/8c15a3ad248d22f171970a3b22dc7fe2d902bcad59980fbe45fab592f1b0e995.m3u8
 港台电视 32,https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv
+港台电视 32,https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台,http://cdn.163189.xyz/163189/now
 Now新闻台,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
