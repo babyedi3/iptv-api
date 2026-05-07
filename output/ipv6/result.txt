@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-07 02:24:04,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-05-08 02:28:52,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -237,6 +237,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 CGTN英语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
 CGTN英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN英语,https://stream1.freetv.fun/577decafad3c7924c1e1d31ccb30caa5ec3ce24ea3be605adaf432d504aa4ec0.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://stream1.freetv.fun/f0566e27a6b410caf685972d54201bc86de6f28678900e2011777ff5c5f41862.m3u8
 CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511f605b98ba7482e9d30972d.m3u8
@@ -1509,6 +1510,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 NewTV古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
 NewTV海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 NewTV家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
 NewTV家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
 NewTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
