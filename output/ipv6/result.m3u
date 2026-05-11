@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-11 01:21:51
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-12 02:22:04
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1829,6 +1829,8 @@ https://stream1.freetv.fun/8c15a3ad248d22f171970a3b22dc7fe2d902bcad59980fbe45fab
 https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv
 #EXTINF:-1 tvg-id="102" tvg-name="港台电视 32" tvg-logo="https://live.fanmingming.cn/tv/港台电视 32.png" group-title="🇭🇰香港频道",港台电视 32
 https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
+#EXTINF:-1 tvg-id="102" tvg-name="港台电视 32" tvg-logo="https://live.fanmingming.cn/tv/港台电视 32.png" group-title="🇭🇰香港频道",港台电视 32
+https://stream1.freetv.fun/102f7a14d065c52b27aa7803243751a3cbada015dda228bb566344e7670ddf75.ctv
 #EXTINF:-1 tvg-id="103" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png" group-title="🇭🇰香港频道",Now新闻台
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png" group-title="🇭🇰香港频道",Now新闻台
@@ -1843,6 +1845,8 @@ http://hls.168.us.kg/u/331/master.m3u8
 https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png" group-title="🇭🇰香港频道",Now新闻台
 https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da3bd649d8b87f6cf224b99ee8.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.cn/tv/Now新闻台.png" group-title="🇭🇰香港频道",Now新闻台
+https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.ctv
 #EXTINF:-1 tvg-id="104" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="🇲🇴澳门频道",澳视澳门
 https://cdn6.101.qzz.io/163189/asam
 #EXTINF:-1 tvg-id="104" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="🇲🇴澳门频道",澳视澳门
@@ -2359,6 +2363,8 @@ https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="142" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
 https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.ctv
+#EXTINF:-1 tvg-id="142" tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="🇹🇼台湾频道",龙华日韩
+https://stream1.freetv.fun/6c824fe570814a49e3ed36b57367fca68435c47c50d1d5d5127ae9b365ac4bda.ctv
 #EXTINF:-1 tvg-id="143" tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="🇹🇼台湾频道",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="🇹🇼台湾频道",龙华洋片
