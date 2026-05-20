@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-20 02:30:35,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-05-21 02:40:33,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -239,6 +239,7 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 CGTN英语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
 CGTN英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN英语,https://stream1.freetv.fun/577decafad3c7924c1e1d31ccb30caa5ec3ce24ea3be605adaf432d504aa4ec0.m3u8
+CGTN英语,https://stream1.freetv.fun/6112bf357fc75efe04122ade625bc7ba75ae31345dc20426c723edb08bb8e8cb.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,https://stream1.freetv.fun/f0566e27a6b410caf685972d54201bc86de6f28678900e2011777ff5c5f41862.m3u8
 CGTN俄语,https://stream1.freetv.fun/a3b0877061acab9b825f1a899cdfd9a819a7c4b511f605b98ba7482e9d30972d.m3u8
@@ -1036,6 +1037,7 @@ Now新闻台,https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da
 民视第一台,https://stream1.freetv.fun/1d2329b043116875ab5798beaaf7223c925fb292bb9811bc068e89c1fb0d20b2.ctv
 民视第一台,https://stream1.freetv.fun/e4fcbe774413a4dcbd6e0f4cfd4c39b4f9a1989e27df620d654a015cfaf70c93.ctv
 民视第一台,https://stream1.freetv.fun/f32a002e543373c0d454101f6ce00d8f8d6eba32f9fbbae0890b90eb381d800a.ctv
+民视第一台,https://stream1.freetv.fun/af212cd9356e133d3236f72ad03475385705339f9f4ac505598883a6a7a375f8.ctv
 公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.m3u8
 公视,https://stream1.freetv.fun/08350865cfa8795ecb8e2c587a4c947cfa66c55c31b6384a6985f05f0951c135.m3u8
 公视,https://stream1.freetv.fun/ae65f99e3b8fe7667be27b20b6ca23ddffe52e8af761117da792ef811f0454db.ctv
@@ -1046,6 +1048,7 @@ Now新闻台,https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da
 公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
 公视戏剧,https://stream1.freetv.fun/a2e913ca9d091b7dec0281ef9d5aa3eda89865e70ec9a387f8b56228969a66b0.ctv
 公视戏剧,https://stream1.freetv.fun/4d2b3ec686e03fcfc408175f61e316084737acf4d800f4f63477ffb4a6c2e846.ctv
+公视戏剧,https://stream1.freetv.fun/07976fa2383e60625cb7f539de8244e1c3da97eda873c93fb95f25f649734fa7.ctv
 TVBS,https://stream1.freetv.fun/8aafe3ba2a14367116ec8559f0e09e6250303374547da0af5fe4720b62339c54.m3u8
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.ctv
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.m3u8
@@ -1132,6 +1135,7 @@ TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838
 东森财经新闻台,https://stream1.freetv.fun/61b1bddd0e7268c5da70d04c8d808692477ab85e393cda4b3e410c43612c4a32.ctv
 东森财经新闻台,https://stream1.freetv.fun/8227a95ee4fbe9c073f89b95227461fc87028d39b16c1eff1609ece6d1517932.m3u8
 东森财经新闻台,https://stream1.freetv.fun/8227a95ee4fbe9c073f89b95227461fc87028d39b16c1eff1609ece6d1517932.ctv
+东森财经新闻台,https://stream1.freetv.fun/4337ba38d4a1eb2397fc2d8bfcdefb0402de59f89d49a0d3c49615572d46a45a.ctv
 八大综合台,https://stream1.freetv.fun/b79a4cb7db37026b8cff57e607032cebaf6b987414115d8ec2ee69c225641e55.ctv
 八大综合台,https://stream1.freetv.fun/2f8984b074a6d6497dfb2559867c1821701e0fa88edd707e487ac9ccdbf9cb45.m3u8
 八大综合台,https://stream1.freetv.fun/b79a4cb7db37026b8cff57e607032cebaf6b987414115d8ec2ee69c225641e55.m3u8
