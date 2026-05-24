@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-24 01:23:10,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-05-25 01:26:44,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -935,6 +935,13 @@ Now新闻台,https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da
 Now新闻台,https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.ctv
 Now新闻台,https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da3bd649d8b87f6cf224b99ee8.ctv
 Now新闻台,https://stream1.freetv.fun/676bba0aba95ccd943784ef6685be5da18246e14f93397210f20081648490f2a.ctv
+有线新闻台,https://stream1.freetv.fun/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8
+有线新闻台,https://stream1.freetv.fun/ea058ab8cd9ae5ff67fea662e7f511166a26a5e95205248dddadb83c59998036.m3u8
+有线新闻台,https://stream1.freetv.fun/950f4efaa09c59b39332fa295ae36a591264ffb271b9beef138462274c3b7b14.m3u8
+有线新闻台,https://stream1.freetv.fun/a546fb9f46c4fbd26bfe5b62692b029b734cb147ea737d9bd0e525822acb1a45.m3u8
+有线新闻台,https://stream1.freetv.fun/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+有线新闻台,https://stream1.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+有线新闻台,https://stream1.freetv.fun/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
 
 🇲🇴澳门频道,#genre#
 澳视澳门,https://cdn6.101.qzz.io/163189/asam
