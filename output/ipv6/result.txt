@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-26 02:05:28,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-05-27 02:54:59,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
