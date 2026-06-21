@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-21 01:57:29,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-06-22 01:57:11,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1053,6 +1053,7 @@ Now新闻台,https://stream1.freetv.fun/676bba0aba95ccd943784ef6685be5da18246e14
 公视,https://stream1.freetv.fun/ae65f99e3b8fe7667be27b20b6ca23ddffe52e8af761117da792ef811f0454db.ctv
 公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
 公视,https://stream1.freetv.fun/e720479f46d156e254f7f0dd433f1247c0e1d231249c0695f592b859af3fbfa3.ctv
+公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.ctv
 公视戏剧,https://stream1.freetv.fun/b56c3203247f19884f347fa1cf95dd5d33b88bc0c8649aa4e292b40e9e4a2e2d.m3u8
 公视戏剧,https://stream1.freetv.fun/d40d4c8597d3af2f1da72ce76f4aeb2f682807c2c03997a5620d394340415c52.m3u8
 公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
@@ -1122,6 +1123,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 三立新闻台,https://tv.iill.top/4gtv/229
 三立新闻台,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+三立新闻台,https://stream1.freetv.fun/103cd30c02d26d164666911be0e4abda2a1cd5d8ef4c1592d45b2427e75961dc.ctv
 东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 东森新闻台,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.m3u8
 东森新闻台,https://stream1.freetv.fun/c8bd954102bd1966c96c6660dc0bcfab28eae3788ab60cf394d3714a1a37f302.m3u8
