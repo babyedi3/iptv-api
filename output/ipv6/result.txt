@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-22 01:57:11,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-06-23 03:56:12,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -871,6 +871,7 @@ ViuTVsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32
 ViuTVsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.ctv
 ViuTVsix,https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 ViuTVsix,https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
+ViuTVsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.m3u8
 *HOY TV,http://r.jdshipin.com/sFw4S
 *HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 *HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8

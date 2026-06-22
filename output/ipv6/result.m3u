@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-22 01:57:11
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-23 03:56:12
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1727,6 +1727,8 @@ https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb
 https://stream1.freetv.fun/df53d054294bb3499e8c5897908dd1e7a190e2505b2f45abd837a8bc405771fb.ctv
 #EXTINF:-1 tvg-id="95" tvg-name="ViuTVsix" tvg-logo="https://live.fanmingming.cn/tv/ViuTVsix.png" group-title="🇭🇰香港频道",ViuTVsix
 https://stream1.freetv.fun/1a7fde3e70bcb4a1190775d117fd0b40eb3beb97588b4db2afffb8d819b3cdec.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="ViuTVsix" tvg-logo="https://live.fanmingming.cn/tv/ViuTVsix.png" group-title="🇭🇰香港频道",ViuTVsix
+https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="*HOY TV" tvg-logo="https://live.fanmingming.cn/tv/*HOY TV.png" group-title="🇭🇰香港频道",*HOY TV
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-id="96" tvg-name="*HOY TV" tvg-logo="https://live.fanmingming.cn/tv/*HOY TV.png" group-title="🇭🇰香港频道",*HOY TV
