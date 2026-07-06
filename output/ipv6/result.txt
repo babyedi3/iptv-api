@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-06 01:37:15,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-07-07 02:45:12,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1056,6 +1056,8 @@ Now新闻台,https://stream1.freetv.fun/676bba0aba95ccd943784ef6685be5da18246e14
 公视,https://stream1.freetv.fun/2f9fb003798195324f74f228e4c409c0f5f2fc6f685a9852b171f98d235ec49c.ctv
 公视,https://stream1.freetv.fun/e720479f46d156e254f7f0dd433f1247c0e1d231249c0695f592b859af3fbfa3.ctv
 公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.ctv
+公视,https://stream1.freetv.fun/08350865cfa8795ecb8e2c587a4c947cfa66c55c31b6384a6985f05f0951c135.ctv
+公视,https://stream1.freetv.fun/208f009de80b35b3f7d3cbe9f90a7b0499456dd86ede91c166c91b439851eeaa.ctv
 公视戏剧,https://stream1.freetv.fun/b56c3203247f19884f347fa1cf95dd5d33b88bc0c8649aa4e292b40e9e4a2e2d.m3u8
 公视戏剧,https://stream1.freetv.fun/d40d4c8597d3af2f1da72ce76f4aeb2f682807c2c03997a5620d394340415c52.m3u8
 公视戏剧,https://stream1.freetv.fun/5d7f7cd3ae208653f25e1f78ef7f4684b10b37f034002f7566d045a779fe1cdf.ctv
@@ -1103,6 +1105,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 中天综合台,https://stream1.freetv.fun/0df77a56de2ff99e9c083dc839b51fdbd51b45f910bb797af2d282a6c727387c.ctv
 中天综合台,https://stream1.freetv.fun/7127102bcff8a42271f6f651b1d1ee8e2b898f8c028e711fb1f47283d6b5dc2c.ctv
 中天综合台,https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4be440869dcfe.ctv
+中天综合台,https://stream1.freetv.fun/ac00171ea7464d27d961a176cd268242a31bab0ac52efbc15d5173d6d3597092.ctv
 中天娱乐台,https://stream1.freetv.fun/4b33f82cc14d5cb886a46dd99cef3eac6ef7619baa4e80ed3a097e5bf92131d4.m3u8
 中天娱乐台,https://stream1.freetv.fun/c68677112701493a08636bd7bb348642d26a202643d19bdfd87f6129cf3af976.m3u8
 中天娱乐台,https://stream1.freetv.fun/4b33f82cc14d5cb886a46dd99cef3eac6ef7619baa4e80ed3a097e5bf92131d4.ctv
@@ -1117,6 +1120,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 三立台湾台,https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5535207edea6.m3u8
 三立都会台,https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.m3u8
 三立都会台,https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.ctv
+三立都会台,https://stream1.freetv.fun/72d01f746f17c0c73db881469a1b0c495ac66df2315c23364bc06bf5afba3062.ctv
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻台,https://hls-gateway.vpstv.net/streams/492922.m3u8
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
@@ -1192,6 +1196,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 非凡新闻台,https://stream1.freetv.fun/33cc9eed4a91e533d9e49c0ad741701c19b6170a449d4aa884c83d5ad536de3f.m3u8
 非凡新闻台,https://stream1.freetv.fun/14aac8389a7327192a74c136e2db61bdbf19eb529e0e3ec42e0b8894ac7c32b0.ctv
 非凡新闻台,https://stream1.freetv.fun/33cc9eed4a91e533d9e49c0ad741701c19b6170a449d4aa884c83d5ad536de3f.ctv
+非凡新闻台,https://stream1.freetv.fun/b838d6a7d5ebad98b3d4a149fe173f4170e8ecd27075feb0ee782f70e3e2366c.ctv
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://stream1.freetv.fun/42c0e36fe9a9ca04cf304f48a16df461e974b40d8efeeb3d97388b24b0d24b05.m3u8
@@ -1222,6 +1227,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 龙华偶像,https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8
 龙华偶像,https://stream1.freetv.fun/378cbcb8d803f1e44598b4109998623d9041489861f5ef54b7e3696168479015.ctv
 龙华偶像,https://stream1.freetv.fun/aacabcabde8e1a2a4f1ffe783c2c44ef889c863fa85bb92e6b5c6e7a00006101.m3u8
+龙华偶像,https://stream1.freetv.fun/aacabcabde8e1a2a4f1ffe783c2c44ef889c863fa85bb92e6b5c6e7a00006101.ctv
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华日韩,https://stream1.freetv.fun/c35fdbc18d8b40ce087dea6e58e5dae1e413ce86d9e4d54060303b51fe69f5a9.m3u8
 龙华日韩,https://stream1.freetv.fun/d1c3fd51d6e6f164825d7d88a830c4bcea1ce2e8b11939e5e39c5798bcf32e14.m3u8
@@ -1247,6 +1253,8 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.ctv
 龙华经典,https://stream1.freetv.fun/1bb5d074aab559954dd989711eb5a8fcd9918bb610de77b7f68bb2c37976c3a1.m3u8
+龙华经典,https://stream1.freetv.fun/821472c26a58a0c0adbe1e9a9327a125a344f1c623cfd64914608dc24e8429af.ctv
+龙华经典,https://stream1.freetv.fun/d251fb68a94157c35e6e8c92742d815de8675ec393eefc1b7d20ed317236dbc1.ctv
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通,https://stream1.freetv.fun/6d1c4a760ec67524fca4854c0a0a3a5b4360dc7a33e49fe348d7fba2d92c1370.m3u8
 龙华卡通,https://stream1.freetv.fun/22b4d7f70127cd8712e72e1e408ebb66a9e43c4bab1e5b0e2b3086bf73c12099.m3u8
@@ -1277,6 +1285,8 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 纬来电影台,https://tv.iill.top/x/wldy
 纬来戏剧台,https://stream1.freetv.fun/75ca762f2e74693c9fe613533168e8da15447b687d9545115923d1509b5b370d.ctv
 纬来戏剧台,https://stream1.freetv.fun/2bb1ee5eaec5ca2ced065ba5ab38aa14dac07b755fe0787ca6e3220411c48b8f.ctv
+纬来戏剧台,https://stream1.freetv.fun/b5210abd2be48dc640c711f03d80a1db39f540bf68c79f1dfd094670d351db82.ctv
+纬来戏剧台,https://stream1.freetv.fun/9aa8ebef1d01e398d8b1ac21bde5b591bf7a45b766581dbd77dd2448c86b2c63.ctv
 纬来日本台,https://stream1.freetv.fun/58363aa7e36ad8b8d8e1a371cc7ef6232bfa5699f72162093025b036137ac36e.m3u8
 纬来综合台,https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 纬来综合台,https://stream1.freetv.fun/fd7e4aed783e44baa98c15bf683ce70c51c8001c719ebaaa92eeff7c903293a6.m3u8
