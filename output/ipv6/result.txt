@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-09 02:00:42,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-07-10 02:27:55,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1072,6 +1072,7 @@ TVBS,https://stream1.freetv.fun/c0d845f417b2168fe0134a8e988df20e9aaed197ce71b149
 TVBS,https://stream1.freetv.fun/d28c1980af80d5fd433f5f9eff21e59078d29d80b3e6a5bd485786d6072fc409.ctv
 TVBS,https://stream1.freetv.fun/87b20551e27af191f9a41e6e2eed8338829cfa101d90abf85b68aabb770fd5d9.m3u8
 TVBS,https://stream1.freetv.fun/d28c1980af80d5fd433f5f9eff21e59078d29d80b3e6a5bd485786d6072fc409.m3u8
+TVBS,https://stream1.freetv.fun/e657136978680cba0deaba0127bbfb652bf6c6258f7016059d878e16f58dd688.ctv
 TVBS新闻台,https://stream1.freetv.fun/a2a86cb474d32bbffa879868f0619f7a3053fb9a055de362ac505b3758c8bff8.m3u8
 TVBS新闻台,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8
 TVBS新闻台,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
@@ -1172,6 +1173,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 八大综合台,https://stream1.freetv.fun/08395fbd126c9985594d4d6279dbbc35608c7e892fcf7f38c367b8994f7bd0ee.ctv
 八大戏剧台,https://stream1.freetv.fun/6bb4f9ea66d81d2c3a6da18b704198f339a13528ef2be5f3dc6f8cd4c7545ce8.m3u8
 八大戏剧台,https://stream1.freetv.fun/bafc6dcad218527b46480321b1ff6f7ca09976c4a90a8041846908cdff7ca15d.m3u8
+八大娱乐台,https://stream1.freetv.fun/a345307b6c0241f628a9901a97b265b306f5f28217584da1ab3753cf9c55d59f.ctv
 年代新闻台,https://stream1.freetv.fun/cd2161f9482428a22867ab32562ba7bac738dbb01a6d523f8dea418bfe7c5d4d.ctv
 年代新闻台,https://stream1.freetv.fun/0dbb03d4cd3a81702ca5ae2fdab0774754a6fb5dd4913cb2dc6b0e8f37599d88.m3u8
 年代新闻台,https://stream1.freetv.fun/d630346410169b95e32d26d3ab9a6c2cbc4d6f3c35f1e012dd7dc3592568bb4a.ctv
@@ -1288,6 +1290,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 纬来戏剧台,https://stream1.freetv.fun/b5210abd2be48dc640c711f03d80a1db39f540bf68c79f1dfd094670d351db82.ctv
 纬来戏剧台,https://stream1.freetv.fun/9aa8ebef1d01e398d8b1ac21bde5b591bf7a45b766581dbd77dd2448c86b2c63.ctv
 纬来日本台,https://stream1.freetv.fun/58363aa7e36ad8b8d8e1a371cc7ef6232bfa5699f72162093025b036137ac36e.m3u8
+纬来日本台,https://stream1.freetv.fun/9da2a954a3cb621db9561441401c4e8bc381f81625aa9a3f7c8bf48e852cdf09.ctv
 纬来综合台,https://stream1.freetv.fun/541f6094f34e0290077cf0d55df31c49bc148118e6b030fa2165d5c8c35a6d1f.m3u8
 纬来综合台,https://stream1.freetv.fun/fd7e4aed783e44baa98c15bf683ce70c51c8001c719ebaaa92eeff7c903293a6.m3u8
 博斯运动1台,https://stream1.freetv.fun/8344054a60274342bb44a8b966fd906359ed0107909f8149eb08536501237e49.ctv
@@ -1295,6 +1298,7 @@ MOMO亲子台,https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f3
 MOMO亲子台,https://stream1.freetv.fun/d693682ff69f1d20c33575ccf3d5a2395098e31ea4a1f8dd8d6a06b5b02b073d.ctv
 MOMO亲子台,https://stream1.freetv.fun/cd0e10a4570f1b530fb574e8088ddc7c76588f525b3dac83ba3cc3f8b601df36.m3u8
 MOMO亲子台,https://stream1.freetv.fun/8b6f533a26c7767d36e242cbab34a4f6b7d467b8b6fdeafc86c5a2e1e94a300a.ctv
+MOMO亲子台,https://stream1.freetv.fun/e69f075835af555693dd0c2f46ef05a09b14e2ebdeb7f8d0151a3cb2bea1b1f7.ctv
 东森幼幼台,https://stream1.freetv.fun/5753ad6d04366e4a447cb5f2d22e116b18494d7ecf375878d0369bd1138b1ab2.ctv
 东森幼幼台,https://stream1.freetv.fun/a34998dad3417dd7e39b0cefc3a2f05272c3fc07da05ce22bc78b050534422f3.m3u8
 东森幼幼台,https://stream1.freetv.fun/a5ce703abb18e1b201bebe82d846acbff82ab953643a7153a7df8df671f465cf.ctv
@@ -1570,6 +1574,7 @@ NewTV海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 NewTV黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 NewTV家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
 NewTV家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+NewTV家庭剧场,https://stream1.freetv.fun/7236f7b579a5683f20de8683e0ebe180aa8ec3e560ca0b7f3dd10cd4fddd2226.m3u8
 NewTV金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
