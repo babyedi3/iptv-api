@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/babyedi3/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-22 01:50:06
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-23 01:50:32
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -2343,6 +2343,8 @@ https://stream1.freetv.fun/cd2161f9482428a22867ab32562ba7bac738dbb01a6d523f8dea4
 https://stream1.freetv.fun/0dbb03d4cd3a81702ca5ae2fdab0774754a6fb5dd4913cb2dc6b0e8f37599d88.ctv
 #EXTINF:-1 tvg-id="137" tvg-name="年代新闻台" tvg-logo="https://live.fanmingming.cn/tv/年代新闻台.png" group-title="🇹🇼台湾频道",年代新闻台
 https://stream1.freetv.fun/2444e061974dcb924721d07cb5551b6dceeb11b74d49e2b31997151c34c8c12d.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="年代新闻台" tvg-logo="https://live.fanmingming.cn/tv/年代新闻台.png" group-title="🇹🇼台湾频道",年代新闻台
+https://stream1.freetv.fun/d630346410169b95e32d26d3ab9a6c2cbc4d6f3c35f1e012dd7dc3592568bb4a.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png" group-title="🇹🇼台湾频道",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻台.png" group-title="🇹🇼台湾频道",寰宇新闻台

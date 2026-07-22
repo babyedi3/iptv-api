@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 01:50:06,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-07-23 01:50:32,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -1183,6 +1183,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 年代新闻台,https://stream1.freetv.fun/cd2161f9482428a22867ab32562ba7bac738dbb01a6d523f8dea418bfe7c5d4d.m3u8
 年代新闻台,https://stream1.freetv.fun/0dbb03d4cd3a81702ca5ae2fdab0774754a6fb5dd4913cb2dc6b0e8f37599d88.ctv
 年代新闻台,https://stream1.freetv.fun/2444e061974dcb924721d07cb5551b6dceeb11b74d49e2b31997151c34c8c12d.m3u8
+年代新闻台,https://stream1.freetv.fun/d630346410169b95e32d26d3ab9a6c2cbc4d6f3c35f1e012dd7dc3592568bb4a.m3u8
 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻台,https://stream1.freetv.fun/0517aebb01500bf56ba28b35193b93e188c07450e97491e3ce12d8cd67a11130.m3u8
 寰宇新闻台,https://stream1.freetv.fun/b2f1649ed8450b42b16686b5e5f861d5b614134900e0e7dac6dc49e1325187e7.m3u8
