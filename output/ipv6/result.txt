@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-22 00:55:58,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-08-23 00:42:54,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -927,6 +927,7 @@ ViuTVsix,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32
 港台电视 32,https://stream1.freetv.fun/85052a54e4a065a12c2f02c2544ab965d6ebf5c21b43f047e22736b23836b47a.ctv
 港台电视 32,https://stream1.freetv.fun/095e0fbddd7f83951ec8bfefd84d7bc686b37471cac33cd388502184f6bd105b.ctv
 港台电视 32,https://stream1.freetv.fun/102f7a14d065c52b27aa7803243751a3cbada015dda228bb566344e7670ddf75.ctv
+港台电视 32,https://stream1.freetv.fun/83565c6d94867f316dad35ee685de5a9b658b08c4f90bcea5305e2a72c394fcf.ctv
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台,http://cdn.163189.xyz/163189/now
 Now新闻台,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
