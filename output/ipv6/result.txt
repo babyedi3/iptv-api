@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 01:09:35,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+2026-08-28 09:10:14,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
@@ -826,6 +826,7 @@ CGTN俄语,https://stream1.freetv.fun/50a44880889bb24c145936de486b35330561c9cbb6
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 J2,http://r.jdshipin.com/ndGgS
 J2,http://r.jdshipin.com/Nr5jq
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
@@ -1127,6 +1128,7 @@ TVBS欢乐台,https://stream1.freetv.fun/7f0be498217cfbb7ce263b3df477195208ad73b
 三立台湾台,https://stream1.freetv.fun/5b5d21d6b3801c03795d65082c45b832de52c27a9b698ebe9d1df3bff0acf13d.ctv
 三立台湾台,https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5535207edea6.m3u8
 三立台湾台,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+三立台湾台,https://hls-gateway.vpstv.net/streams/477050.m3u8
 三立都会台,https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.m3u8
 三立都会台,https://stream1.freetv.fun/2f427db167466a2ca5fdb507bc513c366340ff47c452c4d3350596f619f9c179.ctv
 三立都会台,https://stream1.freetv.fun/72d01f746f17c0c73db881469a1b0c495ac66df2315c23364bc06bf5afba3062.ctv
